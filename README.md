@@ -21,16 +21,16 @@ Este documento está dirigido a los integrantes de semilleros y grupos de invest
 
 ## Estructura del repositorio
 
-En el documento 'Modelo propuesto', se muestra la representación gráfica del modelo propuesto. A continuación se presentan las 8 fases del modelo propuesto:
+En el documento '0. Modelo propuesto', se muestra la representación gráfica del modelo propuesto. A continuación se presentan las 8 fases del modelo propuesto:
 
-2. Fase de identificar y evaluar
-3. Fase de preparar
-4. Fase de preservar
-5. Fase de adquirir pruebas
-6. Fase de examinar
-7. Fase de analizar
-8. Fase de presentar informes
-9. Fase de revisar
+1. Fase de identificar y evaluar
+2. Fase de preparar
+3. Fase de preservar
+4. Fase de adquirir pruebas
+5. Fase de examinar
+6. Fase de analizar
+7. Fase de presentar informes
+8. Fase de revisar
 
-Este respositorio también incluye un glosario de términos y formatos propuestos para el manejo de las pruebas o evidencias. 
+Este respositorio también incluye un glosario de términos, un directorio con los formatos propuestos para el manejo de las pruebas o evidencias y un directorio con las publicaciones académicas derivadas de este proyecto. 
 
