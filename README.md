@@ -34,3 +34,10 @@ En el documento '0. Modelo propuesto', se muestra la representación gráfica de
 
 Este respositorio también incluye un glosario de términos, un directorio con los formatos propuestos para el manejo de las pruebas o evidencias y un directorio con las publicaciones académicas derivadas de este proyecto. 
 
+
+
+## Licencia
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+FOGAD está licenciado bajo CC-BY-SA-4.0
