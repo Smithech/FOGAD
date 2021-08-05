@@ -40,4 +40,4 @@ Este respositorio también incluye un glosario de términos, un directorio con l
 
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-FOGAD está licenciado bajo CC-BY-SA-4.0
+FOGAD está licenciado bajo [CC-BY-SA-4.0](https://github.com/Joh4nnSmith/FOGAD/blob/main/LICENSE)
